@@ -1,0 +1,27 @@
+body{
+background-color:#54b4cc
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    background-color:rgb(133, 130, 130)
+}
+
+img{
+    width: 66%;
+}
+
+
+#imageGallery{
+    display: grid;
+    grid-template-columns: 33%,33%,33%;
+    align-items: center;
+    justify-items: center;
+
+}
+
+/* # references an ID attribute in HTML */
+
+
+
+
